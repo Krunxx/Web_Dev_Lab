@@ -1,0 +1,98 @@
+body *{
+    display: flex;
+    margin: 10px;
+}
+
+/* header, footer{
+   align-items: center;
+}
+
+div, main, asideRight{
+    justify-content: center;
+} */
+
+.borderstyle1{
+    border: 2px solid #000;
+    flex-grow: 1;
+    margin: 5px;
+    flex-direction: column;
+
+}
+
+.borderstyle2{
+    border: 2px solid #000;
+    flex-grow: 1;
+    margin: 5px;
+
+}
+
+#content-area{
+    flex-wrap: wrap;
+}
+
+.borderstyle4{
+    border: 2px solid #000;
+    flex-grow: 1;
+    margin: 5px;
+    flex-direction: column;
+}
+
+
+
+.borderstyle3{
+    border: 2px solid #000;
+    height: 100px;
+    margin: 5px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+#content-area{
+    height: 50vh;
+    flex-wrap: wrap;
+
+}
+
+#content-area aside{
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+
+.sidebar{
+    /* tungod ra diay sa width nitunga dayun */
+    width:200px; 
+	height:200px;
+	margin: -3px;
+
+}
+
+.box1 {
+    border: 2px solid #000;
+    height:215px;
+    width:200px; 
+}
+
+.box2 {
+    border: 2px solid #000;
+    height: 215px;
+    width:200px; 
+}
+
+#content-area main{
+    flex-grow: 2;
+}
+
+#wrapper header{
+    flex-grow: 4;
+    height: 100px;
+}
+
+#wrapper header{
+    flex-grow: 4;
+}
+
+footer{
+   height:100px; 
+
+}
