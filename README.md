@@ -2,11 +2,11 @@
 
 <h2 align = "center"> To put laboratory activities in web systems in order </h2>
 
-Activity 1: Responsive <br> 
+📌<b> Activity 1: Responsive <b> <br> 
 <p>Source Repo </p>
 https://github.com/Krunxx/Web_Dev_Lab/tree/main/responsive\
 
-Activity 2: Facebook Clone  || March 03, 2023 <br>
+📌<b> Activity 2: Facebook Clone  || March 03, 2023 <b> <br>
 <p> Deployed Web </p>
 https://cadalo-2r1-fb-clone.vercel.app
 <p>Source Repo </p>
