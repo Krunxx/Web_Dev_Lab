@@ -4,7 +4,8 @@
 
 📌<b> Activity 1: Responsive <b> <br> 
 Source Repo : https://github.com/Krunxx/Web_Dev_Lab/tree/main/responsive\
-
+<br> 
+  
 📌<b> Activity 2: Facebook Clone  || March 03, 2023 <b> <br>
-Deployed Web : https://cadalo-2r1-fb-clone.vercel.app
+Deployed Web : https://cadalo-2r1-fb-clone.vercel.app <br>
 Source Repo : https://github.com/Krunxx/Web_Dev_Lab/tree/main/Cadalo_2r1_FB%20Clone
