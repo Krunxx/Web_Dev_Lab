@@ -1,4 +1,4 @@
-<img align = "center" alt="pink-theory" width = "1000" height = "360" src = "https://user-images.githubusercontent.com/82696971/223297570-c2b99b02-947b-4585-84b2-805d50518e15.gif">
+<img align = "center" alt="pink-theory" width = "1000" height = "360" src = "https://user-images.githubusercontent.com/82696971/229004845-7154f54e-0c49-4cef-b8ea-c24c115974f4.gif">
 
 <h2 align = "center"> Objective: To put laboratory activities in web systems in order </h2>
 
