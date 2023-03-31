@@ -12,3 +12,7 @@ Source Repo : https://github.com/Krunxx/Web_Dev_Lab/tree/main/Cadalo_2r1_FB%20Cl
 
 <h3><b>📌Activity 3: Bootstrap Login & Dashboard  || March 14, 2023 <b></h3>
 Source Repo : https://github.com/Krunxx/Web_Dev_Lab/tree/main/Try
+
+<h3><b>📌Activity 4: Tailwindcss Calculator  || March 31, 2023 <b></h3>
+Source Repo : https://github.com/Krunxx/Web_Dev_Lab/tree/main/tailwindcss%20Calculator
+Deployed Web : https://calculator-using-tailwindcss.vercel.app <br>
