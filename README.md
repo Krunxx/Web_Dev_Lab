@@ -16,3 +16,7 @@ Source Repo : https://github.com/Krunxx/Web_Dev_Lab/tree/main/Try
 <h3><b>📌Activity 4: Tailwindcss Calculator  || March 31, 2023 <b></h3>
 Source Repo : https://github.com/Krunxx/Web_Dev_Lab/tree/main/tailwindcss%20Calculator <br>
 Deployed Web : https://calculator-using-tailwindcss.vercel.app <br>
+
+<h3><b>📌Activity 5: JavaCalculator  || May 09, 2023 <b></h3>
+Source Repo : https://github.com/Krunxx/Web_Dev_Lab/tree/main/Javascript%20Calculator <br>
+Deployed Web : https://javascript-calculator-eight-ruddy.vercel.app/<br>
